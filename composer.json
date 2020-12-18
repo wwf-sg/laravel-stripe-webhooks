@@ -56,7 +56,7 @@
         }
     },
     "repositories": {
-        {
+        "0": {
             "type": "vcs",
             "url": "git@github.com:wwf-sg/laravel-webhook-client.git"
         }
