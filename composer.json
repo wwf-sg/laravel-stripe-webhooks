@@ -25,7 +25,7 @@
     "require": {
         "php": "^8.0|^7.3",
         "illuminate/support": "^6.0|^7.0|^8.0",
-        "spatie/laravel-webhook-client": "^2.7.4",
+        "wwf-sg/laravel-webhook-client": "dev-master",
         "stripe/stripe-php": "^6.0|^7.0|^7.51"
     },
     "require-dev": {
@@ -53,6 +53,12 @@
             "providers": [
                 "Spatie\\StripeWebhooks\\StripeWebhooksServiceProvider"
             ]
+        }
+    },
+    "repositories": {
+        {
+            "type": "vcs",
+            "url": "git@github.com:wwf-sg/laravel-webhook-client.git"
         }
     }
 }
