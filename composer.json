@@ -1,5 +1,10 @@
 {
     "name": "wwf-sg/laravel-stripe-webhooks",
+    "version": "2.4.1-dev",
+    "dist": {
+        "url": "git@bitbucket.org:wwf-sg/laravel-stripe-webhooks.git",
+        "type": "git"
+    },
     "description": "Handle stripe webhooks in a Laravel application",
     "keywords": [
         "spatie",
