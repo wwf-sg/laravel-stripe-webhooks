@@ -1,6 +1,6 @@
 {
     "name": "wwf-sg/laravel-stripe-webhooks",
-    "version": "2.4.1-dev",
+    "version": "master",
     "dist": {
         "url": "git@github.com:wwf-sg/laravel-stripe-webhooks.git",
         "type": "git"
