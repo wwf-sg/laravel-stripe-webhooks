@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-stripe-webhooks",
+    "name": "wwf-sg/laravel-stripe-webhooks",
     "description": "Handle stripe webhooks in a Laravel application",
     "keywords": [
         "spatie",
         "laravel-stripe-webhooks"
     ],
-    "homepage": "https://github.com/spatie/laravel-stripe-webhooks",
+    "homepage": "https://github.com/wwf-sg/laravel-stripe-webhooks",
     "license": "MIT",
     "authors": [
         {
